@@ -37,12 +37,12 @@
      3. android ( Termux )
      
 # video:
-https://www.youtube.com/channel/UCC_aPnmV_zGfdwktCFE9cPQ
+https://youtube.com/channel/UCWhAY1KuO7dBvmBP2jVKPJg
      
 # Credit:
      If You Like This Tool then Kindly Give us a star. Thanks.....
      
 # Author:
- a. https://www.facebook.com/pakhack01
+ a. https://www.twitter.com/chrismorytoh
  
- b. https://instagram.com/invisibleclay100
+ b. https://instagram.com/chrismoryofficial
