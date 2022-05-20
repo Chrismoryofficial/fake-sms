@@ -26,8 +26,8 @@ echo -e ${BLUE}"                                                         #"
 echo -e ${BLUE}"      A Small Tool To Send Messages Anonymously          #"
 echo -e ${RED}"   WARNING: Use this Tool Only For Educational Purpose   #"
 echo -e ${RED}"             I Will Not Be Responsible For Your Shit     #"
-echo -e ${YELLOW}"            Coded By: Machine404                         #"
-echo -e ${GREEN}"             https://facebook.com/unknownclay            #"
+echo -e ${YELLOW}"            Coded By: chrismory                        #"
+echo -e ${GREEN}"             https://twitter.com/chrismorytoh           #"
 echo -e ${RED}"##########################################################"
    
 }
@@ -105,7 +105,7 @@ function SENDSMS() {
     clear
     banner
     echo ""
-   echo -e ${ORANGE}"Enter Phone Number with County Code like (923441212012)\n"
+   echo -e ${ORANGE}"Enter Phone Number with County Code like (658809903)\n"
    echo -e -n ${CP}"Enter Phone Number With Country Code: "
    
    read num
@@ -159,7 +159,7 @@ echo -e ${RED}"[*] (Ctrl + C ) Detected, Trying To Exit... "
 echo -e ${RED}"[*] Stopping Services... "
 sleep 1
 echo ""
-echo -e ${YELLOW}"[*] Thanks For Using Fake-SMS  :)"
+echo -e ${YELLOW}"[*] Thanks For Using Fake-SMS developed by +255658809903 :)"
 exit
 }
 
@@ -190,4 +190,4 @@ read play
       fi
 }
 menu
-#coded by Machine404 Don't copy this code without giving me credit.
+#coded by chrismory Don't copy this code without giving me credit.
